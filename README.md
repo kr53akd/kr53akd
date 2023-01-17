@@ -1,9 +1,8 @@
       
 <div id="topImage" align="center">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width:"120" height="120"/>
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
  </div>  
-
+       <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 <h1 align="center"> Hey there. </h1>
 <h3 align="center"> I am Abhishek Kumar and **React Js** || **Node JS** || **MERN Stack** || **.NET** developer </h3>
 <div id="image" align= "center"> 
