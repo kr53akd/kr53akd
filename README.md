@@ -1,8 +1,9 @@
-###        ![Uploading 68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif…]()
+###       
                        
-###                                Hi there, I am Abhishek Kumar, I am  React JS || Node JS || MERN Stack || .NET developer 
+###                                Hey there, I am Abhishek Kumar, I am  React JS || Node JS || MERN Stack || .NET developer 
 
-### 
+### ![Abhishek](https://user-images.githubusercontent.com/76629016/212885907-951a13c3-4fd8-45a8-b717-3c3137a628c8.jpg)
+
 
 <!--
 **kr53akd/kr53akd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
