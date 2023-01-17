@@ -6,10 +6,10 @@
       <a href="https://www.linkedin.com/in/akd-kr53/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge"/>
       </a>
-      <a href="https://www.linkedin.com/in/akd-kr53/">
+      <a href="https://www.instagram.com/kr.ak53/">
             <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
       </a>
-      <a href="https://www.linkedin.com/in/akd-kr53/">
+      <a href="https://twitter.com/ak53yahoo/">
            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
  </div>     
