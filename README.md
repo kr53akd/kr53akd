@@ -1,7 +1,7 @@
       
 # <h1 align="center"> Hey there. </h1>
 ### <h3 align="center"> I am Abhishek Kumar and **React Js** || **Node JS** || **MERN Stack** || **.NET** developer </h3>
-<p align="center">![GithubImage (1)](https://user-images.githubusercontent.com/76629016/212901247-26ad142b-4476-4663-82c3-9cfabbd3ca8c.gif)
+#<p align="center">![GithubImage (1)](https://user-images.githubusercontent.com/76629016/212901247-26ad142b-4476-4663-82c3-9cfabbd3ca8c.gif)</p>
 
 ### <p align="center">We can connect if you wish to [CLICK HERE](https://www.linkedin.com/in/akd-kr53/)</p>
 
