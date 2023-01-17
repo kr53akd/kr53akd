@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Abhishek Kumar, I am  React JS || Node JS || MERN Stack || .NET developer 
 
 <!--
 **kr53akd/kr53akd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
