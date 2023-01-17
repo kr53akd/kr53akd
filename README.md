@@ -1,8 +1,5 @@
-###       
-                       
-###                                Hey there, I am Abhishek Kumar, I am  React JS || Node JS || MERN Stack || .NET developer 
-
-### ![Abhishek](https://user-images.githubusercontent.com/76629016/212885907-951a13c3-4fd8-45a8-b717-3c3137a628c8.jpg)
+      
+### ![giphy](https://user-images.githubusercontent.com/76629016/212887497-93218833-d3e9-4ad2-9647-7bc18aef7cb4.gif)
 
 
 <!--
